@@ -1,0 +1,14 @@
+{
+  "name": "uberscript",
+  "version": "0.0.1",
+  "description": "Ubercharged JavaScript Reactivity",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [
+    "reactivity",
+    "signal"
+  ],
+  "author": "Yukino Song",
+  "license": "MIT"
+}
